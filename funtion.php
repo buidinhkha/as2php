@@ -21,7 +21,7 @@
 
 	function insert($sql)
 	{
-		$db = parse_url(getenv("DATABASE_URL"));
+		$db = parse_url("postgres://rxfjbfsqrsviad:9b3a58af90e2f26e82fc091368331f6fc804bf01febdb080b1b21f392c88544a@ec2-54-225-205-79.compute-1.amazonaws.com:5432/dd973qr28s5tg0");
 	
 	$pdo = new PDO("pgsql:" . sprintf(
 	    "host=%s;port=%s;user=%s;password=%s;dbname=%s",
@@ -37,7 +37,7 @@
 	}
 	function update($sql)
 	{
-		$db = parse_url(getenv("DATABASE_URL"));
+		$db = parse_url("postgres://rxfjbfsqrsviad:9b3a58af90e2f26e82fc091368331f6fc804bf01febdb080b1b21f392c88544a@ec2-54-225-205-79.compute-1.amazonaws.com:5432/dd973qr28s5tg0");
 	
 	$pdo = new PDO("pgsql:" . sprintf(
 	    "host=%s;port=%s;user=%s;password=%s;dbname=%s",
@@ -54,7 +54,7 @@
 	}
 	function delete($sql)
 	{
-		$db = parse_url(getenv("DATABASE_URL"));
+		$db = parse_url("postgres://rxfjbfsqrsviad:9b3a58af90e2f26e82fc091368331f6fc804bf01febdb080b1b21f392c88544a@ec2-54-225-205-79.compute-1.amazonaws.com:5432/dd973qr28s5tg0");
 	
 	$pdo = new PDO("pgsql:" . sprintf(
 	    "host=%s;port=%s;user=%s;password=%s;dbname=%s",
