@@ -139,12 +139,12 @@ body{
 }
 .menu a{
 	text-decoration: none;
-	color: white;
+	color: blue;
 }
 .menu a:hover{
 	display-4
 	background-color: none;
-	color: #F80000;	
+	color: yellow;	
 }
 
 
