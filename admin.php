@@ -13,7 +13,7 @@ require_once("./funtion.php");
 </head>
 <body>
 <?php 
-	require_once("./Header.php");	
+	require_once("./Header.php");
  ?>
 <div class="adminmiddle" style="background-image: linear-gradient(to bottom left,  #50C2E7, #7EC913); color: #550E0E;font-size: 20px;">
 	<div class="row" >
