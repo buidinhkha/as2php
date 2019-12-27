@@ -6,7 +6,7 @@ body{
 }
 
 .head{
-	background-color: yellow;
+	background-image:  url("./images/IconShop.jfif");
 	height: 90px;
 	position: sticky;
 	top: 0;
