@@ -5,7 +5,7 @@
 	</div>
 	<div class="search">
 		<form action="./index.php" class="searchform">			
-			<input type="text" name="search" class="searchinput" placeholder="Type here for Searching ...">		
+			<input type="text" name="search" class="searchinput" placeholder="Enter the product Searching ...">		
 			<div class="searchbutton">
 				<button type="submit" class="btn btn-light"><span>Search</span></button>
 			</div>
@@ -33,7 +33,7 @@
     {  
     ?>
   <div class="login">
-    <a href="" data-toggle="modal" data-target="#loginModal"><img src="./images/login.png"><b>Login</b></a>
+    <a href="" data-toggle="modal" data-target="#loginModal"><img src="./images/login.jfif"><b>Login</b></a>
   </div>
     <?php
     }
