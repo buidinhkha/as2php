@@ -1,7 +1,7 @@
 
 <div class="head">
 	<div class="homeicon">
-		<a href="./index.php"><img src="./images/IconShop.bmp"></a>
+		<a href="./index.php"><img src="./images/IconShop.jfif"></a>
 	</div>
 	<div class="search">
 		<form action="./index.php" class="searchform">			
