@@ -1,12 +1,12 @@
 body{
 	height:100%;
 	width: 100%;
-	background-color: #D1D1D1;
+	background-color: brown;
 
 }
 
 .head{
-	background-color: #677DFE;
+	background-color: yellow;
 	height: 90px;
 	position: sticky;
 	top: 0;
@@ -109,13 +109,15 @@ body{
 
 
 .middle{
+	background-color: blue;
 	height:90%;
 	width: 100%;
+
 }
 
 
 .menu{
-	background-color: #D1D1D1;
+	background-color: grey;
 	height: 100%;
 	width: 12%;
 	font-size: 25px;
