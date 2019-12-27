@@ -1,6 +1,5 @@
 <?php session_start();
 require_once("./funtion.php");
-
 ?>
 <!DOCTYPE html>
 <html>
@@ -20,8 +19,8 @@ require_once("./funtion.php");
 	<div class="menu">
 		<ul>
 			<li class="badge badge-secondary">Categories</li>
-			<li class="badge badge-info"><a href="./index.php?catid=1">Dolls</a></li>
-			<li class="badge badge-info"><a href="./index.php?catid=2">Puzzle</a></li>
+			<li class="badge badge-info"><a href="./index.php?catid=1">Dog</a></li>
+			<li class="badge badge-info"><a href="./index.php?catid=2">Cat</a></li>
 			<li class="badge badge-info"><a href="./index.php?catid=3">Videogames</a></li>
 			<li class="badge badge-info"><a href="./index.php?catid=4">Educational</a></li>
 			<li class="badge badge-info"><a href="./index.php?catid=5">Cards</a></li>
