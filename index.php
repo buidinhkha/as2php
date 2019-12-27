@@ -21,11 +21,11 @@ require_once("./funtion.php");
 			<li class="badge badge-secondary">Categories</li>
 			<li class="badge badge-info"><a href="./index.php?catid=1">Dog</a></li>
 			<li class="badge badge-info"><a href="./index.php?catid=2">Cat</a></li>
-			<li class="badge badge-info"><a href="./index.php?catid=3">Videogames</a></li>
-			<li class="badge badge-info"><a href="./index.php?catid=4">Educational</a></li>
-			<li class="badge badge-info"><a href="./index.php?catid=5">Cards</a></li>
-			<li class="badge badge-info"><a href="./index.php?catid=6">Vehicle</a></li>
-			<li class="badge badge-info"><a href="./index.php?catid=7">ToyGuns</a></li>
+			<li class="badge badge-info"><a href="./index.php?catid=3">Birt</a></li>
+			<li class="badge badge-info"><a href="./index.php?catid=4">Mouse</a></li>
+			<li class="badge badge-info"><a href="./index.php?catid=5">Squirrel</a></li>
+			<li class="badge badge-info"><a href="./index.php?catid=6">Turtle</a></li>
+			<li class="badge badge-info"><a href="./index.php?catid=7">Fish</a></li>
 		</ul>
 	</div>
 	<div class="rowss">
