@@ -13,7 +13,7 @@
 	</div>
 	<div class="cart">
 		<a href="" data-toggle="modal" data-target="#cartModal">
-			<img src="./images/carticon.png">
+			<img src="./images/Carticon.png">
 			<b>Cart</b>
 		</a>
 	</div>
@@ -33,7 +33,7 @@
     {  
     ?>
   <div class="login">
-    <a href="" data-toggle="modal" data-target="#loginModal"><img src="./images/login.jfif"><b>Login</b></a>
+    <a href="" data-toggle="modal" data-target="#loginModal"><img src="./images/Login.jfif"><b>Login</b></a>
   </div>
     <?php
     }
