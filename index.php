@@ -19,13 +19,13 @@ require_once("./funtion.php");
 	<div class="menu">
 		<ul>
 			<li class="badge badge-secondary">Categories</li>
-			<li class="badge badge-info"><a href="./index.php?catid=1">Dog</a></li>
-			<li class="badge badge-info"><a href="./index.php?catid=2">Cat</a></li>
-			<li class="badge badge-info"><a href="./index.php?catid=3">Birt</a></li>
-			<li class="badge badge-info"><a href="./index.php?catid=4">Mouse</a></li>
-			<li class="badge badge-info"><a href="./index.php?catid=5">Squirrel</a></li>
-			<li class="badge badge-info"><a href="./index.php?catid=6">Turtle</a></li>
-			<li class="badge badge-info"><a href="./index.php?catid=7">Fish</a></li>
+			<li class="badge badge-info"><a href="./index.php?catid=1">Doll</a></li>
+			<li class="badge badge-info"><a href="./index.php?catid=2">Clay</a></li>
+			<li class="badge badge-info"><a href="./index.php?catid=3">Planes</a></li>
+			<li class="badge badge-info"><a href="./index.php?catid=4">Toy car</a></li>
+			<li class="badge badge-info"><a href="./index.php?catid=5">Toy Animals</a></li>
+			<li class="badge badge-info"><a href="./index.php?catid=6">Driven cars</a></li>
+			<li class="badge badge-info"><a href="./index.php?catid=7">Lego</a></li>
 		</ul>
 	</div>
 	<div class="rowss">
