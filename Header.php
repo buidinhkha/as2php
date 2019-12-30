@@ -5,7 +5,7 @@
 	</div>
 	<div class="search">
 		<form action="./index.php" class="searchform">			
-			<input type="text" name="search" class="searchinput" placeholder="Enter the Animas Searching ...">		
+			<input type="text" name="search" class="searchinput" placeholder="Enter the product Searching ...">		
 			<div class="searchbutton">
 				<button type="submit" class="btn btn-light"><span>Search</span></button>
 			</div>
